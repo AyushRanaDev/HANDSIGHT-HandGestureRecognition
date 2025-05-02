@@ -107,6 +107,21 @@ jupyter notebook train_keypoint_classifier.ipynb
 
 ---
 
+## Screenshots
+
+![Screenshot 2025-04-15 014345](https://github.com/user-attachments/assets/ea7b2770-b31f-4e5b-8868-0190459a7ff3)
+![Screenshot 2025-04-15 014353](https://github.com/user-attachments/assets/3dbe814f-b6ee-4458-8999-c79b446fda35)
+![Screenshot 2025-04-15 014405](https://github.com/user-attachments/assets/e4e7d7f5-2450-4bd1-a0fa-7a921c02b33b)
+![Screenshot 2025-04-15 014458](https://github.com/user-attachments/assets/7857d4cf-015e-48d3-a239-15c01f216639)
+![Screenshot 2025-04-15 014527](https://github.com/user-attachments/assets/bf1fc03e-2f13-40bb-8989-9c2fc0d6c37b)
+![Screenshot 2025-04-15 014422](https://github.com/user-attachments/assets/989adad2-6073-4229-80d2-460cb2f090c3)
+
+## Confusion Matrix
+![Screenshot 2025-04-15 015418](https://github.com/user-attachments/assets/78134de4-7d86-4e3a-881c-8f4346bc3205)
+![Screenshot 2025-04-15 015438](https://github.com/user-attachments/assets/21b96a6c-9890-4d31-8271-81b589f4b8a3)
+![Screenshot 2025-04-15 015734](https://github.com/user-attachments/assets/f082d5bf-b3d7-473c-bdca-2e4cfb5adc85)
+
+
 ## Contributing
 Contributions are welcome! Please follow these steps:
 1. Fork the repository.
